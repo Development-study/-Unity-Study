@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A7F3F650-10CB-A9F4-7FEC-FE3F2FB1DB2D}</ProjectGuid>
+    <ProjectGuid>{E1455F88-4069-4251-B92E-735F29B41885}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,17 +58,18 @@
   <ItemGroup>
     <Compile Include="Assets\02.Scripts\book\PlayerCtrl.cs" />
     <Compile Include="Assets\02.Scripts\actionGame\CameraMovement.cs" />
+    <Compile Include="Assets\02.Scripts\actionGame\Bullet.cs" />
     <Compile Include="Assets\02.Scripts\actionGame\Follow.cs" />
     <Compile Include="Assets\02.Scripts\rollBall\GameManagerLogic.cs" />
     <Compile Include="Assets\02.Scripts\actionGame\Player.cs" />
     <Compile Include="Assets\02.Scripts\rollBall\CameraMove.cs" />
     <Compile Include="Assets\02.Scripts\book\FollowCam.cs" />
-    <Compile Include="Assets\05.Models\actionGame\QuadAction Pack\ReadMe\Scripts\ReadmeBE5.cs" />
+    <Compile Include="Assets\02.Scripts\actionGame\Weapon.cs" />
     <Compile Include="Assets\02.Scripts\actionGame\Item.cs" />
     <Compile Include="Assets\02.Scripts\rollBall\PlayerBall.cs" />
-    <Compile Include="Assets\02.Scripts\rollBall\ItemCan.cs" />
     <Compile Include="Assets\02.Scripts\actionGame\Orbit.cs" />
-    <Compile Include="Assets\02.Scripts\actionGame\Weapon.cs" />
+    <Compile Include="Assets\02.Scripts\rollBall\ItemCan.cs" />
+    <Compile Include="Assets\05.Models\actionGame\QuarterView 3D Action BE5\ReadMe\Scripts\ReadmeBE5.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
