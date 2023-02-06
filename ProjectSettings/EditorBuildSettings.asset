@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes/rollBall/Scenes1_0.unity
+    guid: 1811da237cb4f354a914d6666b2b8de9
+  - enabled: 1
+    path: Assets/01.Scenes/rollBall/Scenes1_1.unity
+    guid: bb44022f67ba160459f490e150574f87
+  - enabled: 1
+    path: Assets/01.Scenes/rollBall/Scenes1_2.unity
+    guid: 877dd26018dc232499a5728f1db1cd41
+  - enabled: 1
+    path: Assets/01.Scenes/rollBall/Scenes1_3.unity
+    guid: 6cb5261f3e30c7c4eac3075a4802dd0a
+  - enabled: 1
+    path: Assets/01.Scenes/rollBall/Scenes1_4.unity
+    guid: 6c762cc1a584c5b4c88b5aaf3a0e7a41
+  m_configObjects: {}
